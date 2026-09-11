@@ -11,7 +11,7 @@
 
 <br/>
 
-[Live Portfolio](https://taha-qazi.github.io/Portfolio/) &bull; [Curriculum Vitae (PDF)](Taha_Bin_Yousuf_CV.pdf) &bull; [Email](mailto:tahaqazi417@gmail.com)
+[Live Portfolio](https://taha-qazi.github.io/Portfolio/) &bull; [Curriculum Vitae (PDF)](https://taha-qazi.github.io/Portfolio/Taha_Bin_Yousuf_CV.pdf) &bull; [Email](mailto:tahaqazi417@gmail.com)
 
 </div>
 
