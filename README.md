@@ -46,6 +46,6 @@ I'm a Software Engineering student (Class of 2027) and the Co-Founder & Systems 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-qazi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f5a0&text_color=c9d1d9&icon_color=00f5a0" alt="Taha's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taha-qazi&theme=radical" alt="Taha's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-qazi&theme=radical&hide_border=true&background=0D1117&ring=00f5a0&fire=00f5a0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Taha's GitHub Streak" />
 </div>
